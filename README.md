@@ -2,7 +2,7 @@ Hello 👋
 
 I'm Harsh, a 14 year old software developer from New York! 
 
-🔭 I’m currently working on a pathfinding visualizer! 
+🔭 I’m currently working on a game jam game! 
 
 🌱 I’m currently learning PHP, and Python 🐍🐘
 
