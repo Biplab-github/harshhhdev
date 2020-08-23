@@ -13,9 +13,15 @@ I'm Harsh, a 14 year old software developer from New York!
 Recently, i've been spending my time with 📊
 
 -Python 🐍
+
 -PHP 🐘
+
 -Java ☕
+
 -C# #️⃣ 
+
 -Javascript 🟨
+
 -CSS 🟦
+
 -HTML 🟧
