@@ -4,7 +4,7 @@ I'm Harsh, a 14 year old software developer from New York!
 
 🔭 I’m currently working on a game jam game! 
 
-🌱 I’m currently learning PHP, and Python 🐍🐘
+🌱 I’m currently learning PHP, Java and Python 🐍🐘☕
 
 💬 Ask me about anything related to Web Development, and Unity ⌨🖱
 
