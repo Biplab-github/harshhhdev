@@ -18,7 +18,7 @@ Recently, i've been spending my time with 📊
 
 -PHP 🐘
 
--Java ☕
+-TypeScript 📜
 
 -C# #️⃣ 
 
