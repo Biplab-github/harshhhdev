@@ -8,7 +8,7 @@ I'm Harsh, a 14 year old software developer from New York!
 
 💬 Ask me about anything related to Web Development, and Unity ⌨🖱
 
-📫 How to reach me: Discord, härśħ #6385 | Twitter: @Harshhh_Singh | Email: harshhh.singh.personal@gmail.com
+📫 How to reach me: Discord, harsh-dev #6385 | Twitter: @Harshhh_Singh | Email: harshhh.singh.personal@gmail.com
 
 
 
