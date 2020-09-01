@@ -2,7 +2,7 @@ Hello 👋
 
 I'm Harsh, a 14 year old software developer from New York! 
 
-🔭 I’m working on a game for the dani game jam!
+🔭 I’m working on an audio visualizer tool!
 
 🌱 I’m currently learning PHP, Java and Python 🐍🐘☕
 
