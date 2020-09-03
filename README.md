@@ -1,4 +1,4 @@
-### Hello There! 👋###
+### Hello There! 👋
 
 I'm Harsh, a 14 year old software developer from New York!
 
