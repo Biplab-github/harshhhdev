@@ -4,7 +4,7 @@ I'm Harsh, a 14 year old software developer from New York!
 
 🔭 I’m working on an audio visualizer tool!
 
-🌱 I’m currently learning PHP, Java and Python 🐍🐘☕
+🌱 I’m currently learning PHP, and Python 🐍🐘
 
 💬 Ask me about anything related to Web Development, and Unity ⌨🖱
 
@@ -17,8 +17,6 @@ Recently, i've been spending my time with 📊
 -Python 🐍
 
 -PHP 🐘
-
--TypeScript 📜
 
 -C# #️⃣ 
 
