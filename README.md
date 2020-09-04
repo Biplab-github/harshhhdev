@@ -30,4 +30,4 @@ Recently, i've been spending my time with 📊
 
 ## My socials!
 
-<img align="left" alt="https://twitter.com/Harshhh_singh" width="22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg https://twitter.com/Harshhh_singh"/>
+<img align="left" alt="https://twitter.com/Harshhh_singh" width="22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>https://twitter.com/Harshhh_singh
