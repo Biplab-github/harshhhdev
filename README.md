@@ -1,6 +1,6 @@
 ### Hello There! 👋
 
-##I'm Harsh, a 14 year old software developer from New York!
+## I'm Harsh, a 14 year old software developer from New York!
 
 🔭 I’m working on an audio visualizer tool 🎶
 
