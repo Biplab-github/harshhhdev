@@ -34,7 +34,7 @@ Recently, i've been spending my time with 📊
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [twitter]: https://twitter.com/Harshhh_singh
-[youtube]: https://www.youtube.com/
+[youtube]: https://www.youtube.com/channel/UCeUQIgpJUxIA50adLVfw1bA?view_as=subscriber
 
 <br />
 
