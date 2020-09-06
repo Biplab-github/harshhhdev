@@ -14,6 +14,8 @@
 
 Recently, i've been spending my time with 📊
 
+-Rust 🟧
+
 -Python 🐍
 
 -PHP 🐘
