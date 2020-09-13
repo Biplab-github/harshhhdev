@@ -12,7 +12,7 @@
 
 <br />
 
-Recently, i've been spending my time with 📊
+Recently, I've been spending my time with 📊
 
 -Rust 🟧
 
