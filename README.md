@@ -2,7 +2,7 @@
 
 ## I'm Harsh, a 14 year old software developer from New York!
 
-🔭 I’m working on so many damn things that I don't know what to put here 😓
+🔭 I’m working on a Discord Bot! 
 
 🧠 I’m currently learning PHP, Algebra II and Python 🐍🐘➗
 
