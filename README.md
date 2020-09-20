@@ -55,4 +55,4 @@ Recently, I've been spending my time with 📊
 [<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>][youtube]
 [<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][youtube]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhhdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhh-dev)](https://github.com/anuraghazra/github-readme-stats)
