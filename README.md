@@ -57,6 +57,6 @@ Recently, I've been spending my time with 📊
 
 <br/>
 
-# Language Breakdown
+## Language Breakdown
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhh-dev)](https://github.com/anuraghazra/github-readme-stats)
