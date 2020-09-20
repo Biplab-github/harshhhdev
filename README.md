@@ -44,6 +44,9 @@ Recently, I've been spending my time with 📊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshhh-dev)](https://github.com/anuraghazra/github-readme-stats)
 
+## Weekly activity breakdown
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harshhh-dev)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Languages and tools that I am familiar with!
 
 [<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> ][youtube]
