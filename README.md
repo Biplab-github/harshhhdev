@@ -10,26 +10,6 @@
 
 📫 How to reach me: Discord, harsh-dev #6385 | Twitter: @Harshhh_Singh | Email: harshhh.singh.personal(at)gmail.com
 
-<br />
-
-Recently, I've been spending my time with 📊
-
--Rust 🟧
-
--Python 🐍
-
--PHP 🐘
-
--C# #️⃣ 
-
--Javascript 🟨
-
--CSS 🟦
-
--HTML 🟧
-
-<br />
-
 ## My socials!
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -37,8 +17,6 @@ Recently, I've been spending my time with 📊
 
 [twitter]: https://twitter.com/Harshhh_singh
 [youtube]: https://www.youtube.com/channel/UCeUQIgpJUxIA50adLVfw1bA?view_as=subscriber
-
-<br />
 
 ## Language Breakdown
 
@@ -61,5 +39,3 @@ Recently, I've been spending my time with 📊
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][youtube]
 [<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>][youtube]
 [<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][youtube]
-
-<pre>
