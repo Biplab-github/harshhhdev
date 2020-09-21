@@ -4,7 +4,7 @@
 
 🔭 I’m working on a Discord Bot! 
 
-🧠 I’m currently learning PHP, Algebra II and Python 🐍🐘➗
+🧠 I’m currently learning Algebra and Python 🐍🐘➗
 
 🥅 2020 - I'm hoping to improve my web development skills 💪
 
