@@ -15,4 +15,4 @@
 
 ## Language Breakdown
 
-<figure><embed src="https://wakatime.com/share/@harshhhdev/931be6ee-6ecc-4fc2-a010-539433a34a18.svg"></embed></figure>
+<img src="https://wakatime.com/share/@harshhhdev/931be6ee-6ecc-4fc2-a010-539433a34a18.svg">
