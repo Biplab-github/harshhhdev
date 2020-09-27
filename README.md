@@ -20,4 +20,4 @@
 
 ## Language Breakdown
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harshhh-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harshhhdev)](https://github.com/anuraghazra/github-readme-stats)
