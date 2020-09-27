@@ -16,3 +16,7 @@
 ## Language Breakdown
 
 <img src="https://wakatime.com/share/@harshhhdev/931be6ee-6ecc-4fc2-a010-539433a34a18.svg">
+
+## Time Breakdown
+
+<img src="https://wakatime.com/share/@harshhhdev/57051795-4f77-4b21-a2ec-da1b7fdd9987.png" />
