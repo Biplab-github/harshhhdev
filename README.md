@@ -2,9 +2,9 @@
 
 ## I'm Harsh, a 14 year old web developer.
 
-🔭 I’m working on a Discord Bot! 
+🔭 I’m working on a Paste website! 
 
-🧠 I’m currently learning Algebra and Python 🐍➗
+🧠 I’m currently learning Algebra and Express \
 
 🥅 2020 - I'm hoping to improve my web development skills 💪
 
@@ -19,4 +19,4 @@
 
 ## Time Breakdown
 
-<img src="https://wakatime.com/share/@harshhhdev/57051795-4f77-4b21-a2ec-da1b7fdd9987.png" />
+<img src="https://wakatime.com/share/@harshhhdev/2833ae4d-c775-4c74-a999-66a8142aab7a.png" />
