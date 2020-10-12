@@ -12,8 +12,6 @@
 
 📫 How to reach me: Discord, harsh-dev #6385 | Twitter: @Harshhh_Singh | Email: harshhh.singh.personal(at)gmail.com
 
-![Profile Views V2](https://komarev.com/ghpvc/?username=AppDevMichael)
-
 [twitter]: https://twitter.com/Harshhh_singh
 [youtube]: https://www.youtube.com/channel/UCeUQIgpJUxIA50adLVfw1bA?view_as=subscriber
 
