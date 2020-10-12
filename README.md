@@ -1,6 +1,8 @@
-# Hello There! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
+# Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
 
 ## I'm Harsh, a 14 year old web developer.
+
+![Profile Views V2](https://komarev.com/ghpvc/?username=harshhh-dev)
 
 🔭 I’m working on a Paste website! 
 
@@ -9,6 +11,8 @@
 🥅 2020 - I'm hoping to improve my web development skills 💪
 
 📫 How to reach me: Discord, harsh-dev #6385 | Twitter: @Harshhh_Singh | Email: harshhh.singh.personal(at)gmail.com
+
+![Profile Views V2](https://komarev.com/ghpvc/?username=AppDevMichael)
 
 [twitter]: https://twitter.com/Harshhh_singh
 [youtube]: https://www.youtube.com/channel/UCeUQIgpJUxIA50adLVfw1bA?view_as=subscriber
