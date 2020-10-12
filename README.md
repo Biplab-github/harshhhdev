@@ -31,8 +31,10 @@ const Harsh = {
 </details>
 
 ## Time Breakdown
-
-<img src="https://wakatime.com/share/@harshhhdev/2833ae4d-c775-4c74-a999-66a8142aab7a.png" />
+<details>
+    <summary>How much time Have I Been Coding This Week?</summary>
+    <img src="https://wakatime.com/share/@harshhhdev/2833ae4d-c775-4c74-a999-66a8142aab7a.png" />
+</details>
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
