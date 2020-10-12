@@ -2,6 +2,8 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+## About Me :grinning:
+
 ```javascript
 const Harsh = {
     pronouns: "He" | "Him",
@@ -24,7 +26,7 @@ const Harsh = {
 [twitter]: https://twitter.com/Harshhh_singh
 [youtube]: https://www.youtube.com/channel/UCeUQIgpJUxIA50adLVfw1bA?view_as=subscriber
 
-## Latest blog posts
+## Latest blog posts :book:
 <!-- BLOG-POST-LIST:START -->
 - [Dark mode on GitHub - Free n' simple.](https://dev.to/harshhhdev/dark-mode-on-github-free-n-simple-562j)
 - [Making your Ubuntu terminal look cool.](https://dev.to/harshhhdev/making-your-linux-terminal-look-cool-535n)
@@ -35,6 +37,8 @@ const Harsh = {
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+
+## Stats :bar_chart:
 
 **🐱 My Github Data** 
 
