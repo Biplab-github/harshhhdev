@@ -27,6 +27,7 @@ const Harsh = {
 
 ## Latest blog posts :book:
 <!-- BLOG-POST-LIST:START -->
+- [Colouring discord embeds in HTML (theme color)](https://dev.to/harshhhdev/colouring-discord-embeds-in-html-theme-color-2kio)
 - [Dark mode on GitHub - Free n' simple.](https://dev.to/harshhhdev/dark-mode-on-github-free-n-simple-562j)
 - [Making your Ubuntu terminal look cool.](https://dev.to/harshhhdev/making-your-linux-terminal-look-cool-535n)
 - [Basic coding stats on readme.](https://dev.to/harshhhdev/basic-coding-stats-on-readme-246c)
