@@ -23,6 +23,7 @@
 
 <img src="https://wakatime.com/share/@harshhhdev/2833ae4d-c775-4c74-a999-66a8142aab7a.png" />
 
+## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Dark mode on GitHub - Free n' simple.](https://dev.to/harshhhdev/dark-mode-on-github-free-n-simple-562j)
 - [Making your Ubuntu terminal look cool.](https://dev.to/harshhhdev/making-your-linux-terminal-look-cool-535n)
