@@ -42,3 +42,19 @@ const Harsh = {
 - [Making your Ubuntu terminal look cool.](https://dev.to/harshhhdev/making-your-linux-terminal-look-cool-535n)
 - [Basic coding stats on readme.](https://dev.to/harshhhdev/basic-coding-stats-on-readme-246c)
 <!-- BLOG-POST-LIST:END -->
+
+<!--START_SECTION:waka-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--END_SECTION:waka-->
