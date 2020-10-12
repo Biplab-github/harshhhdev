@@ -2,6 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+
 ## About Me :grinning:
 
 ```javascript
@@ -23,8 +24,6 @@ const Harsh = {
 };
 ```
 
-[twitter]: https://twitter.com/Harshhh_singh
-[youtube]: https://www.youtube.com/channel/UCeUQIgpJUxIA50adLVfw1bA?view_as=subscriber
 
 ## Latest blog posts :book:
 <!-- BLOG-POST-LIST:START -->
@@ -33,12 +32,10 @@ const Harsh = {
 - [Basic coding stats on readme.](https://dev.to/harshhhdev/basic-coding-stats-on-readme-246c)
 <!-- BLOG-POST-LIST:END -->
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 ## Stats :bar_chart:
+
+<!--START_SECTION:waka-->
 
 **🐱 My Github Data** 
 
