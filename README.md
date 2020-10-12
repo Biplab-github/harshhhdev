@@ -35,11 +35,11 @@ const Harsh = {
 ## Latest Tweets :bird:
 
 <!-- LATEST-TWEETS:START -->
-<li>🚀 Oct 12 11:10 <a href='https://twitter.com/nil0x42/status/1315610778079240192'>💥 free data leak search engine with plaintext password access 🙈🙉🙊  #data #br...</a></li>
-<li>🔥 Oct 11 20:01 <a href='https://twitter.com/nil0x42/status/1315382107703848961'>When you're tired of receiving n/a on hackerone & decide to sell next bug on rai...</a></li>
-<li>🔥 Oct 11 11:51 <a href='https://twitter.com/nil0x42/status/1315258708859944961'>#bugbountytips     #disposable gmail e-mail</a></li>
-<li>💫 Oct 11 09:39 <a href='https://twitter.com/Bank_Security/status/1315225394329518082'>A Threat Actor is selling Domain Admin access to Fortune 500 Financial Company w...</a></li>
-<li>💯 Oct 10 21:23 <a href='https://twitter.com/nil0x42/status/1315040199567704064'>Just added `last tweets` feed to my #GitHub profile. Thank to  (twitter to RSS) ...</a></li>
+<li>🚀 Oct 12 16:16 <a href='https://twitter.com/HarshhhDev/status/1315687874105421825'>HarshhhDev: RT @iamdevloper: the mixing of coding styles on this billboard is no...</a></li>
+<li>🔥 Oct 12 09:32 <a href='https://twitter.com/iamdevloper/status/1315586046709633025'>iamdevloper: the mixing of coding styles on this billboard is not ok</a></li>
+<li>🔥 Oct 05 03:57 <a href='https://twitter.com/HarshhhDev/status/1312965073552445440'>HarshhhDev: RT @HondoResists: tRump is the most prolific superspreader of COVID ...</a></li>
+<li>💫 Oct 03 14:52 <a href='https://twitter.com/HondoResists/status/1312405064699576320'>HondoResists: tRump is the most prolific superspreader of COVID misinformation. ...</a></li>
+<li>💯 Oct 02 11:36 <a href='https://twitter.com/HarshhhDev/status/1311993360622780418'>HarshhhDev: RT @PixelCrayons: How to Design Your Website for Seniors, Boomers an...</a></li>
 
 <!-- LATEST-TWEETS:END -->
 
