@@ -32,6 +32,12 @@ const Harsh = {
 - [Basic coding stats on readme.](https://dev.to/harshhhdev/basic-coding-stats-on-readme-246c)
 <!-- BLOG-POST-LIST:END -->
 
+## Latest Tweets :bird:
+
+<!-- LATEST-TWEETS:START -->
+
+<!-- LATEST-TWEETS:END -->
+
 
 ## Stats :bar_chart:
 
