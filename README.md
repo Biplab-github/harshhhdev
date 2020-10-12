@@ -24,9 +24,10 @@ const Harsh = {
 [twitter]: https://twitter.com/Harshhh_singh
 [youtube]: https://www.youtube.com/channel/UCeUQIgpJUxIA50adLVfw1bA?view_as=subscriber
 
-<summary> ## Language Breakdown </summary>
-
-<img src="https://wakatime.com/share/@harshhhdev/931be6ee-6ecc-4fc2-a010-539433a34a18.svg">
+## Language Breakdown
+<details>
+    <img src="https://wakatime.com/share/@harshhhdev/931be6ee-6ecc-4fc2-a010-539433a34a18.svg">
+</details>
 
 ## Time Breakdown
 
