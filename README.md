@@ -24,18 +24,6 @@ const Harsh = {
 [twitter]: https://twitter.com/Harshhh_singh
 [youtube]: https://www.youtube.com/channel/UCeUQIgpJUxIA50adLVfw1bA?view_as=subscriber
 
-## Language Breakdown
-<details>
-    <summary>What Languages Have I been spending my time with this week?</summary>
-    <img src="https://wakatime.com/share/@harshhhdev/931be6ee-6ecc-4fc2-a010-539433a34a18.svg">
-</details>
-
-## Time Breakdown
-<details>
-    <summary>How much time Have I Been Coding This Week?</summary>
-    <img src="https://wakatime.com/share/@harshhhdev/2833ae4d-c775-4c74-a999-66a8142aab7a.png" />
-</details>
-
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Dark mode on GitHub - Free n' simple.](https://dev.to/harshhhdev/dark-mode-on-github-free-n-simple-562j)
