@@ -26,6 +26,7 @@ const Harsh = {
 
 ## Language Breakdown
 <details>
+    <summary>What Languages Have I been spending my time with this week?</summary>
     <img src="https://wakatime.com/share/@harshhhdev/931be6ee-6ecc-4fc2-a010-539433a34a18.svg">
 </details>
 
