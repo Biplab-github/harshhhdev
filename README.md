@@ -1,23 +1,30 @@
 # Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
 
-## I'm Harsh, a 14 year old web developer.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-![Profile Views V2](https://komarev.com/ghpvc/?username=harshhh-dev)
-
-🔭 I’m working on a Paste website! 
-
-🧠 I’m currently learning Algebra and Express 
-
-🥅 2020 - I'm hoping to improve my web development skills 💪
-
-📫 How to reach me: Discord, harsh-dev #6385 | Twitter: @Harshhh_Singh | Email: harshhh.singh.personal(at)gmail.com
+```javascript
+const Harsh = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "unity"],
+    technologies: {
+        frontEnd: {
+            js: "React",
+            css: ["Sass", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        databases: "mongo",
+    },
+    currentProject: "SnipBin, a blazing fast, open source and elegant alternative to PasteBin.",
+    funFact: "I love Open Source!"
+};
+```
 
 [twitter]: https://twitter.com/Harshhh_singh
 [youtube]: https://www.youtube.com/channel/UCeUQIgpJUxIA50adLVfw1bA?view_as=subscriber
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=harshhhdev&hide_title=true&hide_border=true&langs_count=5)
-
-## Language Breakdown
+<summary> ## Language Breakdown </summary>
 
 <img src="https://wakatime.com/share/@harshhhdev/931be6ee-6ecc-4fc2-a010-539433a34a18.svg">
 
