@@ -38,7 +38,7 @@ const Harsh = {
 <!-- LATEST-TWEETS:START -->
 <li>🚀 Oct 13 21:50 <a href='https://twitter.com/HarshhhDev/status/1316134118300753921'>HarshhhDev: Day-tha</a></li>
 <li>🔥 Oct 12 18:15 <a href='https://twitter.com/HarshhhDev/status/1315717810358759424'>HarshhhDev: RT @devdevcharlie: I've been playing around with WebXR and built a s...</a></li>
-<li>🔥 Oct 12 18:15 <a href='https://twitter.com/HarshhhDev/status/1315717641940676610'>@HarshhhDev: #devtips #HTML #htmlcss #Discord #webdev #webdevelopment   HTML Tip...</a></li>
+<li>🔥 Oct 12 18:15 <a href='https://twitter.com/HarshhhDev/status/1315717641940676610'>@HarshhhDev: #devtips #HTML #htmlcss #Discord #webdev #webdevelopment HTML Tip: ...</a></li>
 <li>💫 Oct 12 16:16 <a href='https://twitter.com/HarshhhDev/status/1315687874105421825'>HarshhhDev: RT @iamdevloper: the mixing of coding styles on this billboard is no...</a></li>
 <li>💯 Oct 12 09:32 <a href='https://twitter.com/iamdevloper/status/1315586046709633025'>iamdevloper: the mixing of coding styles on this billboard is not ok</a></li>
 
