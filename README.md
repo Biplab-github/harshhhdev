@@ -37,7 +37,7 @@ const Harsh = {
 ## Latest Tweets :bird:
 
 <!-- LATEST-TWEETS:START -->
-<li>🔥 Oct 20 00:29 <a href='https://rss.app'>[Action required] Your RSS.app Trial has Expired - Tue Oct 20 2020</a></li>
+<li>🔥 Oct 20 01:32 <a href='https://rss.app'>[Action required] Your RSS.app Trial has Expired - Tue Oct 20 2020</a></li>
 
 <!-- LATEST-TWEETS:END -->
 
