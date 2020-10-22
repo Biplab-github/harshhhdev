@@ -19,7 +19,7 @@ const Harsh = {
         },
         databases: "mongo",
     },
-    currentProject: "SnipBin, a blazing fast, open source and elegant alternative to PasteBin.",
+    currentProject: "Neumorphicssm, a website which generates neumorphistic displays for you to add on your website.",
     funFact: "I love Open Source!"
 };
 ```
