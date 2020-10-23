@@ -19,7 +19,6 @@ const Harsh = {
         },
         databases: "mongo",
     },
-    currentProject: "Neumorphicssm, a website which generates neumorphistic displays for you to add on your website.",
     funFact: "I love Open Source!"
 };
 ```
