@@ -24,6 +24,9 @@ const Harsh = {
 };
 ```
 
+## Learn more about me
+
+Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 
 ## Latest blog posts :book:
 <!-- BLOG-POST-LIST:START -->
