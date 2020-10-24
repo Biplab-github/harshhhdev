@@ -32,7 +32,7 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 - [Creating a npx introduction card](https://dev.to/harshhhdev/creating-a-npx-introduction-card-782)
 - [Amazing developer portfolios.](https://dev.to/harshhhdev/amazing-developer-portfolios-1fh3)
 - [Colouring discord embeds in HTML (theme color)](https://dev.to/harshhhdev/colouring-discord-embeds-in-html-theme-color-2kio)
-- [Dark mode on GitHub - Free n' simple.](https://dev.to/harshhhdev/dark-mode-on-github-free-n-simple-562j)
+- [How to get dark mode on GitHub](https://dev.to/harshhhdev/dark-mode-on-github-free-n-simple-562j)
 - [Making your Ubuntu terminal look cool.](https://dev.to/harshhhdev/making-your-linux-terminal-look-cool-535n)
 <!-- BLOG-POST-LIST:END -->
 
