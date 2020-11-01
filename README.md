@@ -42,19 +42,19 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 ## Stats :bar_chart:
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 527 Contributions in the Year 2020
+> 🏆 528 Contributions in the Year 2020
  > 
 > 📦 141.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories
+> 📜 22 Public Repositories
  > 
 > 🔑 3 Private Repositories 
 
@@ -87,17 +87,17 @@ Sunday       70 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               4 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.34% 
-Sass                     3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.37% 
-HTML                     3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03% 
-EJS                      2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
-SCSS                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.88%
+JavaScript               4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   23.44% 
+HTML                     4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   23.04% 
+Sass                     4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+EJS                      2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
+TypeScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.47%
 
 🔥 Editors: 
-VS Code                  16 hrs 26 mins      █████████████████████████   100.0%
+VS Code                  18 hrs 3 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    16 hrs 26 mins      █████████████████████████   100.0%
+Linux                    18 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
