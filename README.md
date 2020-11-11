@@ -8,7 +8,6 @@
 ```javascript
 const Harsh = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "unity"],
     age: 14,
     from: "India",
     technologies: {
