@@ -30,11 +30,11 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 
 ## Latest blog posts :book:
 <!-- BLOG-POST-LIST:START -->
+- [Guide to web scraping with Node](https://dev.to/harshhhdev/guide-to-web-scraping-with-node-1kpe)
 - [Basic guide to Ubuntu terminal](https://dev.to/harshhhdev/basic-guide-to-ubuntu-terminal-9g4)
 - [Time to ditch PasteBin - Introducing PasteMyst](https://dev.to/harshhhdev/time-to-ditch-pastebin-introducing-pastemyst-3ndh)
 - [Fun DuckDuckGo tricks](https://dev.to/harshhhdev/fun-duckduckgo-tricks-4c5h)
 - [Creating a npx introduction card](https://dev.to/harshhhdev/creating-a-npx-introduction-card-782)
-- [Amazing developer portfolios.](https://dev.to/harshhhdev/amazing-developer-portfolios-1fh3)
 <!-- BLOG-POST-LIST:END -->
 
 
