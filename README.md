@@ -43,19 +43,19 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-116.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 735 Contributions in the Year 2020
+> 🏆 738 Contributions in the Year 2020
  > 
 > 📦 146.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 32 Public Repositories
+> 📜 31 Public Repositories
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
 
 **I'm an Early 🐤** 
 
@@ -86,17 +86,17 @@ Sunday       69 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               14 hrs 37 mins      ████████████░░░░░░░░░░░░░   48.1% 
-CSS                      5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.63% 
-HTML                     5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73% 
-TypeScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.83% 
-JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.81%
+JavaScript               12 hrs 41 mins      ███████████░░░░░░░░░░░░░░   45.45% 
+CSS                      5 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82% 
+HTML                     5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.23% 
+TypeScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.16% 
+JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.15%
 
 🔥 Editors: 
-VS Code                  30 hrs 23 mins      █████████████████████████   100.0%
+VS Code                  27 hrs 54 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    30 hrs 23 mins      █████████████████████████   100.0%
+Linux                    27 hrs 54 mins      █████████████████████████   100.0%
 
 ```
 
@@ -114,7 +114,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/harshhhdev/harshhhdev/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/harshhhdev/harshhhdev/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
