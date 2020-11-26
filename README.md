@@ -41,15 +41,15 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 ## Stats :bar_chart:
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-116.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-116.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 738 Contributions in the Year 2020
  > 
-> 📦 146.7 kB Used in Github's Storage 
+> 📦 146.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -86,17 +86,17 @@ Sunday       69 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               12 hrs 41 mins      ███████████░░░░░░░░░░░░░░   45.45% 
-CSS                      5 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82% 
-HTML                     5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.23% 
-TypeScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.16% 
-JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.15%
+JavaScript               10 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   37.51% 
+CSS                      6 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.78% 
+HTML                     5 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32% 
+JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.16% 
+TypeScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
 
 🔥 Editors: 
-VS Code                  27 hrs 54 mins      █████████████████████████   100.0%
+VS Code                  27 hrs 27 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    27 hrs 54 mins      █████████████████████████   100.0%
+Linux                    27 hrs 27 mins      █████████████████████████   100.0%
 
 ```
 
