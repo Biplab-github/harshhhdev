@@ -32,7 +32,7 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 <!-- BLOG-POST-LIST:START -->
 - [What is GraphQL and why use it?](https://dev.to/harshhhdev/graphql-what-and-why-3f9n)
 - [Guide to web scraping with Node](https://dev.to/harshhhdev/guide-to-web-scraping-with-node-1kpe)
-- [Basic guide to Ubuntu terminal](https://dev.to/harshhhdev/basic-guide-to-ubuntu-terminal-9g4)
+- [Basics of the Ubuntu Terminal](https://dev.to/harshhhdev/basic-guide-to-ubuntu-terminal-9g4)
 - [Time to ditch PasteBin - Introducing PasteMyst](https://dev.to/harshhhdev/time-to-ditch-pastebin-introducing-pastemyst-3ndh)
 - [Fun DuckDuckGo tricks](https://dev.to/harshhhdev/fun-duckduckgo-tricks-4c5h)
 <!-- BLOG-POST-LIST:END -->
