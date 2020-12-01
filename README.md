@@ -9,7 +9,7 @@
 const Harsh = {
     pronouns: "He" | "Him",
     age: 14,
-    from: "India",
+    from: "NY",
     technologies: {
         frontEnd: {
             js: "React",
