@@ -33,7 +33,7 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 - [Tips and Ideas for DigitalOcean Hackathon](https://dev.to/harshhhdev/tips-and-ideas-for-digitalocean-hackathon-fha)
 - [UI Design Trend of 2021](https://dev.to/harshhhdev/ui-design-trend-of-2021-4fb7)
 - [What is GraphQL and why use it?](https://dev.to/harshhhdev/graphql-what-and-why-3f9n)
-- [Guide to web scraping with Node](https://dev.to/harshhhdev/guide-to-web-scraping-with-node-1kpe)
+- [Web Scraping with Node and Puppeteer](https://dev.to/harshhhdev/guide-to-web-scraping-with-node-1kpe)
 - [Basics of the Ubuntu Terminal](https://dev.to/harshhhdev/basic-guide-to-ubuntu-terminal-9g4)
 <!-- BLOG-POST-LIST:END -->
 
