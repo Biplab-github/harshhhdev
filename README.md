@@ -8,8 +8,6 @@ I'm Harsh, I make web applications and try out new things.
  - :mailbox: How to reach me: [@harshhhsinghpersonal](mailto:harshhh.singh.personal@gmail.com)
  - :zap: Fun fact: I also love web design
 
-## Learn more about me :smile:
-
 Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 
 ## Latest from my tech blog :book:
