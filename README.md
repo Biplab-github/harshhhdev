@@ -8,7 +8,7 @@ I'm Harsh, I make web applications and try out new things.
  - :mailbox: How to reach me: [@harshhhsinghpersonal](mailto:harshhh.singh.personal@gmail.com)
  - :zap: Fun fact: I also love web design
 
-## Learn more about me
+## Learn more about me :smile:
 
 Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 
@@ -21,3 +21,8 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 - [Basics of the Ubuntu Terminal](https://dev.to/harshhhdev/basic-guide-to-ubuntu-terminal-9g4)
 <!-- BLOG-POST-LIST:END -->
 
+## My coding activity for this week 📊
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
