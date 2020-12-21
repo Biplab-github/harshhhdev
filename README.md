@@ -12,11 +12,11 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 
 ## Latest from my tech blog :book:
 <!-- BLOG-POST-LIST:START -->
+- [NPM or Yarn? Find the right pacakge manager for you](https://dev.to/harshhhdev/npm-or-yarn-find-the-right-pacakge-manager-for-you-17ko)
 - [Tips and Ideas for DigitalOcean Hackathon](https://dev.to/harshhhdev/tips-and-ideas-for-digitalocean-hackathon-fha)
 - [UI Design Trend of 2021](https://dev.to/harshhhdev/ui-design-trend-of-2021-4fb7)
 - [What is GraphQL and why use it?](https://dev.to/harshhhdev/graphql-what-and-why-3f9n)
 - [Web Scraping with Node and Puppeteer](https://dev.to/harshhhdev/guide-to-web-scraping-with-node-1kpe)
-- [Basics of the Ubuntu Terminal](https://dev.to/harshhhdev/basic-guide-to-ubuntu-terminal-9g4)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for this week 📊
