@@ -2,7 +2,7 @@
 
 I'm Harsh, I make web applications and try out new things.
 
- - :telescope: I’m currently working on oponion
+ - :telescope: I’m currently working on something cool :wink:
  - :seedling: I’m currently learning React
  - :speech_balloon: Ask me about anything [here](https://github.com/harshhhdev/harshhhdev/discussions/1)
  - :mailbox: How to reach me: [@harshhhsinghpersonal](mailto:harshhh.singh.personal@gmail.com)
