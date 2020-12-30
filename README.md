@@ -1,12 +1,12 @@
 # Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
 
-I'm Harsh, I make web applications and try out new things.
+I'm [Harsh](https://harshhhdev.github.io/), I make web applications and try out new things.
 
  - :telescope: I’m currently working on something cool :wink:
- - :seedling: I’m currently learning React
+ - :seedling: I’m currently learning [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/)
  - :speech_balloon: Ask me about anything [here](https://github.com/harshhhdev/harshhhdev/discussions/1)
  - :mailbox: How to reach me: [@harshhhsinghpersonal](mailto:harshhh.singh.personal@gmail.com)
- - :zap: Fun fact: I also love web design
+ - :zap: Fun fact: I also love [web design](https://dribbble.com/harshhhdev)
 
 Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 
