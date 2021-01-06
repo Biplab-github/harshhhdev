@@ -23,10 +23,10 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   13 hrs 51 mins  █████████████▓░░░░░░░░░░░   54.85 % 
-JSON         2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-JavaScript   2 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-CSS          2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Other        1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+TypeScript   13 hrs 51 mins  ███████████████▒░░░░░░░░░   61.42 % 
+JSON         2 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+CSS          2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+JavaScript   1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+EJS          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 ```
 <!--END_SECTION:waka-->
