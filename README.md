@@ -23,10 +23,10 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   16 hrs 19 mins  █████████████████████▓░░░   86.43 % 
-Markdown     1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Go           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-fish         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+TypeScript   14 hrs 39 mins  █████████████████████▒░░░   85.19 % 
+Markdown     1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Go           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+fish         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 <!--END_SECTION:waka-->
