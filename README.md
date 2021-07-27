@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://github.com/harshhhdev/harshhhdev/blob/master/Banner.jpeg" />
-  <a href="https://harshhhdev.github.io/">
-    <h1 align="center">Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a></h2>
-  </a>
+  <h1 align="center">Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a></h2>
 </p> 
 <p align="center">I'm <a href="https://harshhhdev.github.io/">Harsh</a>, I make web applications and try out new things.</p>
 <p align="center">
