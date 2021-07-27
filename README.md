@@ -1,6 +1,20 @@
-# Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
+<p align="center">
+  <img src="https://github.com/harshhhdev/harshhhdev/blob/master/Banner.jpeg" />
+  <a href="https://harshhhdev.github.io/">
+    <h1 align="center">Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a></h2>
+  </a>
+</p> 
+<p align="center">I'm <a href="https://harshhhdev.github.io/">Harsh</a>, I make web applications and try out new things.</p>
+<p align="center">
+  <a href="https://twitter.com/harshhhdev/">Twitter</a>
+    ·
+  <a href="https://github.com/harshhhdev/">GitHub</a>
+     ·
+  <a href="https://harshhhdev.github.io/blog/">Blog</a>
+      ·
+  <a href="https://dribbble.com/harshhhdev/">Dribbble</a>
+ </p>
 
-I'm [Harsh](https://harshhhdev.github.io/), I make web applications and try out new things.
 
  - :telescope: I’m currently working on something cool :wink:
  - :seedling: I’m currently learning [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/)
