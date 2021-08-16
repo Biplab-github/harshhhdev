@@ -17,7 +17,7 @@
  - :telescope: I’m currently working on something cool :wink:
  - :seedling: I’m currently learning [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/)
  - :speech_balloon: Ask me about anything [here](https://github.com/harshhhdev/harshhhdev/discussions/1)
- - :mailbox: How to reach me: [@harshhhsinghpersonal](mailto:harshhh.singh.personal@gmail.com)
+ - :mailbox: How to reach me: [@hi.harsh](mailto:hi.harsh@protonmail.ch)
  - :zap: Fun fact: I also love [web design](https://dribbble.com/harshhhdev)
 
 Just hit `npx harsh-dev` to learn about me in a unique way :wink:
