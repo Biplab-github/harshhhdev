@@ -35,6 +35,10 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   45 mins         ███████████████▒░░░░░░░░░   61.51 % 
+Java         16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.80 % 
+JSON         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+JavaScript   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Other        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 ```
 <!--END_SECTION:waka-->
