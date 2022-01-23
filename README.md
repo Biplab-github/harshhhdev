@@ -24,7 +24,7 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 
 ## Latest from my tech blog :book:
 <!-- BLOG-POST-LIST:START -->
-- [Adding a Command Palette to Your Website](https://dev.to/harshhhdev/adding-a-command-palette-to-your-website-5cpp)
+- [Add a VSC Command Palette to Your Website!](https://dev.to/harshhhdev/adding-a-command-palette-to-your-website-5cpp)
 - [🚀 Debutur - Build Your Custom Homepage](https://dev.to/harshhhdev/debutur-fa)
 - [Translating Your Next.js Apps](https://dev.to/harshhhdev/translating-your-nextjs-apps-5748)
 - [2021, an look back](https://dev.to/harshhhdev/2021-an-look-back-4k99)
