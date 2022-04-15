@@ -24,11 +24,11 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 
 ## Latest from my tech blog :book:
 <!-- BLOG-POST-LIST:START -->
+- [How Buzzwords Are The &quot;Future&quot; of Our Digital World](https://dev.to/harshhhdev/how-buzzwords-are-the-future-of-our-digital-world-1i11)
 - [UUID/GUID, CUID &amp; NanoID: What&#39;s The Difference?](https://dev.to/harshhhdev/uuidguid-cuid-nanoid-whats-the-difference-5dj1)
 - [Building a Serverless Application with Next.js and CockroachDB!](https://dev.to/harshhhdev/building-a-serverless-application-with-nextjs-and-cockroachdb-3pm5)
 - [🍃 Groovi - Create Soothing Focus Mixes](https://dev.to/harshhhdev/groovi-create-soothing-focus-mixes-3nfo)
 - [Add a VSC Command Palette to Your Website!](https://dev.to/harshhhdev/adding-a-command-palette-to-your-website-5cpp)
-- [🚀 Debutur - Build Your Custom Homepage](https://dev.to/harshhhdev/debutur-fa)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for this week 📊
