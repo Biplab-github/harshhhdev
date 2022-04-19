@@ -2,7 +2,7 @@
   <img src="https://github.com/harshhhdev/harshhhdev/blob/master/Banner.jpeg" />
   <h1 align="center">Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a></h2>
 </p> 
-<p align="center">I'm <a href="https://harshhhdev.github.io/">Harsh</a>, I make web applications and try out new things.</p>
+<p align="center">I'm <a href="https://hxrsh.in/">Harsh</a>, I make web applications and try out new things.</p>
 <p align="center">
   <a href="https://twitter.com/harshhhdev/">Twitter</a>
     ·
@@ -15,8 +15,8 @@
 
 
  - :telescope: I’m currently working on something cool :wink:
- - :seedling: I’m currently learning [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/)
- - :speech_balloon: Ask me about anything [here](https://github.com/harshhhdev/harshhhdev/discussions/1)
+ - :seedling: I’m currently learning [Remix](https://remix.run) and [Rust](https://rustlang.org/)
+ - :speech_balloon: Ask me about anything [here](https://hxrsh.in/ama)
  - :mailbox: How to reach me: [@hi.harsh](mailto:hi.harsh@protonmail.ch)
  - :zap: Fun fact: I also love [web design](https://dribbble.com/harshhhdev)
 
